@@ -1,7 +1,7 @@
 # Exercise 07.1 - Construction and Testing
 ## Isaac Sexe - iisbbq
 
-All of these tests are ran with pytest.  Make sure that all of the tests are in the same directory as the systems files such as: System.py, User.py, Student.py, Staff.py, TA.py, Professor.py, RestoreData.py, and the Data folder with the database json files inside them.  While running the tests, please be sure to run RestoreData.py every so often as some of the test may cause conflict with each other if they alter the database.  The original [README.md](./ExerciseInfo/README_Exercise.md) and various other informational files can be found in the folder [ExerciseInfo](./ExerciseInfo/) if you have any questions on set-up or other aspects of the exercise.
+All of these tests are ran with pytest.  Make sure that all of the tests are in the same directory as the systems files such as: System.py, User.py, Student.py, Staff.py, TA.py, Professor.py, RestoreData.py, and the Data folder with the database json files inside them.  While running the tests, please be sure to run RestoreData.py every so often as some of the test may cause conflict with each other if they alter the database.  The original [README.md](./ExerciseInfo/README.md) and various other informational files can be found in the folder [ExerciseInfo](./ExerciseInfo/) if you have any questions on set-up or other aspects of the exercise.
 
 ### Test 1: login - [System.py](./System.py)
 
